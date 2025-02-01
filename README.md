@@ -9,7 +9,7 @@
 
 [Auto 1111 SDK](https://github.com/Auto1111SDK/Auto1111SDK), an open source library/better alternative to huggingface diffusers (use it to make any image/video gen app, discontinued)
 
-[facecam.ai](https://www.facecam.ai/), an ai tool for the first ever real time face swapping, currently repurposing it to a live video chat interface like omegle / monkey / ome tv. 
+[facecam.ai](https://www.facecam.ai/), an ai tool for the first ever real time face swapping, currently repurposing into a deepfake data collection platform for fraud teams.
 
 ### Tech Stack
 #### Frontend
