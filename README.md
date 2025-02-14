@@ -12,6 +12,8 @@
 
 [facecam.ai](https://www.facecam.ai/), an ai tool for the first ever real time face swapping, currently repurposing into a deepfake data collection platform for fraud teams.
 
+[honeybot.app](https://honeybot.app/), a trading bot for trading memes, tokens, perps, and all things defi on Berachain. 
+
 ### Tech Stack
 #### Frontend
 * React/Next.js
