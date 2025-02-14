@@ -2,8 +2,9 @@
 
 - 😄 my name is Saketh
 - 🏫 i go to UT Austin and have worked in startups, MLE, ML research, and fullstack dev
+- I've also recently started building in web3 and have built several trading bots and AI projects in web3. 
 - 🔭 i'm interested in startups, shipping products, AI, and 3d/gaming
-- 🌱 I’m currently learning 3d, game design, and more about space
+- 🌱 I’m currently learning web3, defi applications, and trading algorithms
 
 [warpvideo.ai](https://warpvideo.ai/), an ai video art generation site. [5k mrr]
 
