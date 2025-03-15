@@ -6,13 +6,13 @@
 - 🔭 i'm interested in startups, shipping products, AI, and 3d/gaming
 - 🌱 I’m currently learning web3, defi applications, and trading algorithms
 
-[warpvideo.ai](https://warpvideo.ai/), an ai video art generation site. [5k mrr]
+[warpvideo.ai](https://warpvideo.ai/), an ai video art generation site. [5k mrr], 60k+ users
 
 [Auto 1111 SDK](https://github.com/Auto1111SDK/Auto1111SDK), an open source library/better alternative to huggingface diffusers (use it to make any image/video gen app, discontinued)
 
-[facecam.ai](https://www.facecam.ai/), an ai tool for the first ever real time face swapping, currently repurposing into a deepfake data collection platform for fraud teams.
+[facecam.ai](https://www.facecam.ai/), an ai tool for the first ever real time face swapping.
 
-[honeybot.app](https://honeybot.app/), a trading bot for trading memes, tokens, perps, and all things defi on Berachain. 
+[polycule.trade](https://www.polycule.trade/), a trading bot for trading polymarket markets/events on telegram. 
 
 ### Tech Stack
 #### Frontend
